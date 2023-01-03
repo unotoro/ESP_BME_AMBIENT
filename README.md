@@ -5,17 +5,15 @@
 
 ・ESP-WROOM-02　BME280　シリアルLCD　Ambient-IoT
 
-ESP-BME280_LCD.ino
+    ESP-BME280_LCD.ino
 
-・LCDナシ、低消費電力(DeepSleep)
+・LCDナシ、低消費電力(DeepSleep)、　条件が良いと単三電池2本で1ヶ月くらい持ちます
 
-　条件が良いと単三電池2本で1ヶ月くらい持ちます
-
-ESP-BME280.ino
+    ESP-BME280.ino
 
 ・フリーWIFIを設定して、車に乗せたりする用
 
-ESP-BME280_history.ino
+    ESP-BME280_history.ino
 
 
 
